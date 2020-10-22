@@ -5,7 +5,6 @@
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
@@ -30,3 +29,15 @@
 *.exe
 *.out
 *.app
+bin/
+obj/
+results/
+
+# VS
+.vs/
+.vscode/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
